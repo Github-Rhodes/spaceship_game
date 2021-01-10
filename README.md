@@ -19,7 +19,7 @@ This design was based loosely on two games; 1942 (a vertical scrolling shooter g
 
 ### Link to my game:
 
-https://spaceship_game.github.io/
+https://github-rhodes.github.io/spaceship_game/
 
 ### Unsolved Problems:
 
