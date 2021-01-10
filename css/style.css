@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
+
+body {
+  background: url(../img/blue_galaxy_background.jpg);
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Monofett', cursive;
+  font-size: 85px;
+
+}
+
+#scoreboard {
+  font-family: 'Monofett', cursive;
+  font-size: 25px;
+  margin-top: -70px;
+  margin-bottom: -65px;
+}
+#score {
+  margin-top: -20px;
+
+}
+
+#wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#canvaswrapper { 
+  width: 480; //480//780//1156
+  height: 500;//500//440//750
+  cursor: none;
+  margin-top: 50px; 
+  background: url(../img/stars_background.jpg) center no-repeat;
+  background-size: cover;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+canvas#spaceshooter {
+  margin: 0 auto;
+  cursor: none;
+  -webkit-box-shadow: 6px 14px 29px 20px rgba(0,0,0,0.58);
+  -moz-box-shadow: 6px 14px 29px 20px rgba(0,0,0,0.58);
+  box-shadow: 6px 14px 29px 20px rgba(0,0,0,0.58);
+}
+
+
+/* Background Images
+
+<a href="https://www.vecteezy.com/free-vector/stardust">Stardust Vectors by Vecteezy</a>
+
+<a href="https://www.vecteezy.com/free-vector/universe">Universe Vectors by Vecteezy</a>
+
+<a href='https://www.freepik.com/vectors/star'>Star vector created by upklyak - www.freepik.com</a>
+<a href='https://www.freepik.com/vectors/background'>Background vector created by Vectorium - www.freepik.com</a> */ 
